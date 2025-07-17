@@ -2,7 +2,7 @@ public class MyFirstApp {
 
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
-		System.out.println("from task to task3!");
+		System.out.println("task3!");
 
 	}
 }
